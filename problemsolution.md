@@ -14,7 +14,7 @@ We are developing a global platform of socially responsible Brands, socially res
 * Consumers prefer socially responsable brands
 * There is a lack of trust in charities
 * NGO´s need additional funding sources
-* Brands need to teduce customer acquisition / retention costs
+* Brands need to reduce customer acquisition / retention costs
 * Need to measure CSR policies return and optimize spending in this area
 * Need for reputation improvement of brands
 * Market Hypercompetition, need for new ways of differenciation.
