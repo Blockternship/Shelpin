@@ -57,7 +57,7 @@ There are three types of users,brands, consumers and NGO´s, although brands are
 * Audited
 
 
-Expected output
+# Expected output
 
 Addressing the 10 % of the 7.5 MM donors (only Spain in a first phase) and the 10% of monthly expenditure in leisure a
 nd food  (50 €) we can expect 4.5 MM € donated to the causes chosen by customers, with a donation mean of 1% of purchases. 
