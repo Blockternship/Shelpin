@@ -18,4 +18,38 @@
 
 * In real production there should be a mechanism to prevent the user keeping tokens from returned bought goods, either delaying the issuance of the tokens equaling the return period without action of the brand to cancel the issuance because a refund, or by “fiat unbacking” them after the issuance (see below the bigger picture about backing and unbacking Shelp tokens).
 
-  
+# The bigger picture 
+
+In Shelpin launch SHELP tokens will be given away for free, in any amount that the user wants , the first issuance will be symbolically fixed at 482 TRN, estimated amount to have every human being having access to fresh water and a daily nutrition. 
+
+Out of that 482 TRN SHELP tokens users claim the amount they wish ( we recommend asking for the amount that the user thinks he can obtain from their brands to donate using the dapp), but those tokens are worthless… they are not backed by any value, until a vendor backs those tokens with donations obtained by the user that claimed the tokens . We want to movilize token holders/ users to ask their favourite brands to start giving back for his purchases affiliating to Shelpin. 
+
+## And how are they gonna do that??? 
+
+Via a massive campaign of automated calling from users to brands asking them to join Shelpin and donate to a concrete NGO if they want them to be their clients anymore… a web based contact center open sourced for this purpose will be set up to make their ears burn. (asterisk devs welcome ;)) 
+
+# Getting back to the token and contract
+
+The useless tokens are kept in the users wallet and when he makes a purchase, rather than generating a new token, the main smart contract “activates” an equivalent amount of tokens to the donation obtained , that are now backed by fiat and can be sent to charities through the Giveth flow. Those tokens are specifically in the wallet of the user that makes the purchase labeled with the brand that assumed the obligation of donating an equivalent amount of fiat.   
+
+When milestones are validated and the ngo / changemaker receives the SHELP token… they can send them to another contract that will “unback” the tokens by signing a message for the brands to make the fiat transfers to the NGO, the unbacking is completed when a proof of the fiat transfer is uploaded to IPFS and the NGO gives its conformity. 
+
+# Reputational side of the token:
+
+When the tokens are useless they say about its holder “I want to create donations of this XXXX value” but that does not mean anything, nothing has been achieved, only when fiat is transferred upon successful completion of a mileston, there has been a positive impact made to balance our world. So when backed tokens are unbacked because the impact has been made, they are still out there as a proof of:
+
+Brand X: Supported with X amount to create balance
+NGO Y: Wisely used X amount to create balance
+User Z: Generated X amount to create balance. 
+
+# Conclusion: 
+
+The best step is always the first – just wanted to share part of the bigger picture about the smart contract / tokens.  
+For the moment let us just focus on making something that sends tokens in exchange of purchases work. 
+
+# THANKS
+
+ 
+
+
+ 
